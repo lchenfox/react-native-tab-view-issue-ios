@@ -48,6 +48,6 @@ export default function App(props) {
         {/* This will freeze Tab view */}
         {visible && <TabViewExample/>}
         {/* Not freezing here */}
-        {<TabViewExample/>}
+        {/*{<TabViewExample/>}*/}
     </View>
 }
